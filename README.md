@@ -27,6 +27,7 @@ This repository showcases my practical testing artifacts, test design techniques
 | **[ISTQB Test Design Principles](./ISTQB_Test_Design_Principles.md)** | Application of formal black-box techniques (Equivalence Partitioning, Boundary Value Analysis) and Risk-Based Testing. |
 | **[Mobile App & Cross-Platform Checklist](./Mobile_App_Testing_Checklist.md)** | Multi-device, responsive, interruption handling, and permission testing suites across iOS Simulators and Android Emulators. |
 | **[CMS & Search Test Scenarios](./CMS_and_Search_Test_Scenarios.md)** | Publishing workflows, editorial authoring, caching/versioning, and multi-criteria Algolia search testing (Jahia & Algolia project context). |
+| **[Agile QA & Jira Workflow](./Agile_QA_Process_and_Jira_Workflow.md)** | Scrum sprint STLC integration, Definition of Ready/Done, and Jira defect lifecycle management. |
 
 ---
 
