@@ -1,6 +1,6 @@
 # 🎓 ISTQB® Certified QA: Test Design Techniques & Risk Analysis
 
-As an **ISTQB® Certified Software Quality Analyst (CTFL v4.0)**[cite: 7], I apply formal software testing principles, structured test design techniques, and risk-based quality strategies to minimize project risk and maximize test coverage.
+As an **ISTQB® Certified Software Quality Analyst (CTFL v4.0)**, I apply formal software testing principles, structured test design techniques, and risk-based quality strategies to minimize project risk and maximize test coverage.
 
 ---
 
