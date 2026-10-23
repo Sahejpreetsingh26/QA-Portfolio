@@ -1,6 +1,6 @@
 # 🤖 AI SaaS & Role-Based Access Control (RBAC) Test Matrix
 
-This document outlines rigorous test scenarios for validating complex, multi-tenant SaaS platforms, AI-driven natural language processing workflows, automated negotiation logic, and granular permission hierarchies. It is modeled after testing environments similar to AI influencer marketing platforms (e.g., CultureX core suites)[cite: 7].
+This document outlines rigorous test scenarios for validating complex, multi-tenant SaaS platforms, AI-driven natural language processing workflows, automated negotiation logic, and granular permission hierarchies. It is modeled after testing environments similar to AI influencer marketing platforms (e.g., CultureX core suites).
 
 ---
 
