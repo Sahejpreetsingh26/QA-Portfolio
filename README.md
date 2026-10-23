@@ -1,6 +1,6 @@
 # 🛡️ Quality Assurance (QA) Professional Portfolio
 
-**ISTQB® Certified Software Quality Analyst** with over 4 years of experience delivering end-to-end quality assurance across complex CMS platforms, Shopify e-commerce applications, US Healthcare portals, and AI-driven SaaS solutions[cite: 1, 7].
+**ISTQB® Certified Software Quality Analyst** with over 4 years of experience delivering end-to-end quality assurance across complex CMS platforms, Shopify e-commerce applications, US Healthcare portals, and AI-driven SaaS solutions.
 
 This repository showcases my practical testing artifacts, test design techniques, bug-tracking methodologies, and domain-specific test execution suites.
 
@@ -32,9 +32,9 @@ This repository showcases my practical testing artifacts, test design techniques
 ---
 
 ## 💼 Professional Background Summary
-- **Ayasya Digital Solutions** *(May 2024 – Present)*: Executing QA across US healthcare portals (Medica), enterprise CMS search platforms (Algolia/Jahia), and high-volume e-commerce (Haldiram Shopify)[cite: 7].
-- **CultureX** *(May 2024 – September 2026)*: Served as sole QA Consultant for an AI-driven Influencer Marketing SaaS platform, leading multi-tenant RBAC, AI brief processing, and rate negotiation testing[cite: 7, 8].
-- **Eleve Media** *(August 2022 – May 2024)*: Tested influencer discovery, onboarding platforms, and REST API integrations across web and mobile viewports[cite: 7].
+- **Ayasya Digital Solutions** *(May 2024 – Present)*: Executing QA across US healthcare portals (Medica), enterprise CMS search platforms (Algolia/Jahia), and high-volume e-commerce (Haldiram Shopify).
+- **CultureX** *(May 2024 – September 2026)*: Served as sole QA Consultant for an AI-driven Influencer Marketing SaaS platform, leading multi-tenant RBAC, AI brief processing, and rate negotiation testing.
+- **Eleve Media** *(August 2022 – May 2024)*: Tested influencer discovery, onboarding platforms, and REST API integrations across web and mobile viewports.
 
 ---
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sahejpreetsingh26/) | ✉️ sahej.preet2603@gmail.com
