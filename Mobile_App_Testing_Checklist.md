@@ -1,6 +1,6 @@
 # 📱 Mobile App & Cross-Platform Testing Checklist
 
-This document outlines specialized test scenarios and quality assurance strategies for validating mobile applications across iOS and Android ecosystems. It covers device emulation, gesture controls, interruption handling, and responsive layout stability, aligned with real-world mobile testing practices (using Xcode Simulators and Android Studio Emulators)[cite: 7].
+This document outlines specialized test scenarios and quality assurance strategies for validating mobile applications across iOS and Android ecosystems. It covers device emulation, gesture controls, interruption handling, and responsive layout stability, aligned with real-world mobile testing practices (using Xcode Simulators and Android Studio Emulators).
 
 ---
 
