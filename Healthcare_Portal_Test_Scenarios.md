@@ -1,6 +1,6 @@
 # 🏥 Healthcare Portal QA Test Scenario Suite (Medica Insurance Portal)
 
-This document outlines core functional, cross-platform, and responsive test scenarios designed for US healthcare member portals. It covers critical user journeys such as claims processing, digital ID card retrieval, plan benefits verification, and provider directory searches, ensuring HIPAA compliance and seamless user experience across Web, iOS, and Android platforms[cite: 7].
+This document outlines core functional, cross-platform, and responsive test scenarios designed for US healthcare member portals. It covers critical user journeys such as claims processing, digital ID card retrieval, plan benefits verification, and provider directory searches, ensuring HIPAA compliance and seamless user experience across Web, iOS, and Android platforms.
 
 ---
 
